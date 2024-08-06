@@ -1,0 +1,43 @@
+html {
+  background-color: #ffffff;
+  margin: 0px;
+}
+
+h1 {
+  color: #b4b4b4;
+  font-weight: 400;
+  margin: auto;
+}
+
+select {
+  background-color: #161616;
+  color: #b4b4b4;
+  border: #8b8b8b;
+  border-radius: 5px;
+  position: relative;
+  top: 200px;
+  left: 200px;
+  box-sizing: border-box;
+  width: 100px;
+  height: 25px;
+}
+
+option {
+  background-color: #161616;
+  color: #b4b4b4;
+  font-weight: 400;
+}
+
+#valor-um {
+  background-color: #161616;
+  color: #b4b4b4;
+  border: #8b8b8b, 2px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 40px;
+  height: 35px;
+  position: relative;
+  top: 200px;
+  left: 200px;
+  
+}
